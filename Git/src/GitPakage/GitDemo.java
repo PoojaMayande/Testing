@@ -11,4 +11,11 @@ public static void main(String[] args)
 	System.out.println("Main Git");
 	
 	}
+	
+	public void m2()
+	{
+	
+	System.out.println("Main Git");
+	
+	}
 }
