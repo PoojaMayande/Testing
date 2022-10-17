@@ -18,4 +18,10 @@ public static void main(String[] args)
 	System.out.println("Main Git");
 	
 	}
+	
+	public void m4()
+	{
+	
+	System.out.println("its me suyash");
+	}
 }
