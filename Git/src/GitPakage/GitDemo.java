@@ -15,13 +15,7 @@ public static void main(String[] args)
 	public void m2()
 	{
 	
-	System.out.println("Main Git");
-	
+	System.out.println("Hellow Pooja Here!");
 	}
-	
-	public void m4()
-	{
-	
-	System.out.println("its me suyash");
-	}
+
 }
