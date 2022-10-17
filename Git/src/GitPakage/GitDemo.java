@@ -5,10 +5,10 @@ public static void main(String[] args)
 {
 	System.out.println("Main Git");
 }
-	public void m1()
+	public void gajanan()
 	{
 	
-	System.out.println("Main Git");
+	System.out.println("Hiii Gaja");
 	
 	}
 	
