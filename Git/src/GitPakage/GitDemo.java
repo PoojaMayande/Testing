@@ -25,5 +25,10 @@ public static void main(String[] args)
 	}
 
 }
+public void m3()
+	{
+	
+	System.out.println("nasta la kadhi jayache");
+	}
 
 }
