@@ -10,5 +10,12 @@ public static void main(String[] args) {
 	{
 		System.out.println("Gaju");
 	}
-		
+	
+	
+}
+public void m1()
+	{
+		System.out.println("Gaju");
+}
+}
 }
